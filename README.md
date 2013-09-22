@@ -6,7 +6,7 @@ This project contains a single clojure source file, core.clj, which is an annota
 
 The slides related to the presentation can be found inside the Strangeloop repo:
 
-Usag://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/Borgatti-DissectingReducers.pdf
+http://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/Borgatti-DissectingReducers.pdf
 
 ## License
 
